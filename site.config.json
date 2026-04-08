@@ -155,5 +155,9 @@
       "rating": 5
     }
   ],
-  "gallery_items": []
+  "gallery_items": [],
+  "hero_image": {
+    "url": "https://dmiqzfylwlstossrqbjx.supabase.co/storage/v1/object/public/generated-images/7b0302e0-1b66-4910-8a5a-0fac35366938/86beaaeb-3482-4642-ba01-2688fc140e77/hero.jpg",
+    "alt": "RightWay pest control technician treating a Jacksonville FL home exterior"
+  }
 }
