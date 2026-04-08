@@ -1,0 +1,159 @@
+{
+  "business_name": "RightWay Integrated Lawn & Pest Solutions",
+  "tagline": "Veteran-Owned. Science-Based. Jacksonville Trusted.",
+  "wp_title_tagline": "Jacksonville's Pest Control & Lawn Care Experts",
+  "owner_name": "Greg Cressman",
+  "domain": "rightwaypest.com",
+  "primary_color": "#0979f1",
+  "skin": "trades-authority",
+  "phone": "904-290-6400",
+  "address": {
+    "street": "",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": ""
+  },
+  "city": "Jacksonville",
+  "state": "FL",
+  "license": "JB324154",
+  "gbp_primary_category": "Pest control service",
+  "emergency_available": false,
+  "hours": "Mon–Fri 7am–6pm, Sat 8am–2pm",
+  "meta_description_default": "RightWay Integrated Lawn & Pest Solutions serves Jacksonville, FL and surrounding areas. Veteran-owned pest control and lawn care — call for a free estimate.",
+  "stats": {
+    "years_in_business": 4,
+    "jobs_completed": null,
+    "avg_rating": 5,
+    "review_count": 120,
+    "response_time": "Same Day"
+  },
+  "social": {
+    "facebook": null,
+    "instagram": null,
+    "google": null
+  },
+  "hero_headline": "Pest Control & Lawn Care Jacksonville Trusts",
+  "hero_subheadline": "Veteran-owned, science-based service for Jacksonville and St. Johns County. Licensed technicians, same-day availability, 100% satisfaction guarantee.",
+  "about_short": "RightWay was founded by veteran Greg Cressman with one goal: deliver the caliber of service that big national companies can't. Every treatment plan is built around your property and the specific pest or lawn issue — not a one-size-fits-all contract.",
+  "hubs": [
+    {
+      "slug": "lawn-care-service",
+      "name": "Lawn Care",
+      "description": "Fertilization, weed control, pest treatment, and tree care for NE Florida's challenging subtropical turf conditions."
+    }
+  ],
+  "services": [
+    {
+      "name": "Pest Control",
+      "slug": "pest-control",
+      "hub": null,
+      "description": "Comprehensive pest protection plans for ants, roaches, spiders, and more."
+    },
+    {
+      "name": "Termite Control",
+      "slug": "termite-control",
+      "hub": null,
+      "description": "Termite inspections, liquid barrier treatments, and bait station programs with warranty."
+    },
+    {
+      "name": "Mosquito Control",
+      "slug": "mosquito-control",
+      "hub": null,
+      "description": "Barrier spray programs that reduce mosquito populations in your yard all season."
+    },
+    {
+      "name": "Lawn Fertilization & Weed Control",
+      "slug": "lawn-fertilization-weed-control",
+      "hub": "lawn-care-service",
+      "description": "Customized fertilization and weed control for St. Augustine and Zoysia lawns in NE Florida."
+    },
+    {
+      "name": "Tree & Shrub Service",
+      "slug": "tree-shrub-service",
+      "hub": "lawn-care-service",
+      "description": "Deep root feeding, pest and disease treatment, and health inspections for ornamentals."
+    },
+    {
+      "name": "Flea & Tick Treatment",
+      "slug": "flea-tick-treatment",
+      "hub": null,
+      "description": "Yard-wide treatment that eliminates fleas and ticks where they breed and hide."
+    }
+  ],
+  "service_areas": [
+    "Jacksonville",
+    "Jacksonville Beach",
+    "Neptune Beach",
+    "Atlantic Beach",
+    "Mandarin",
+    "Baymeadows",
+    "Ponte Vedra Beach",
+    "Palm Valley",
+    "Nocatee",
+    "World Golf Village",
+    "Palencia",
+    "Fruit Cove",
+    "Bartram Park",
+    "Durbin Crossing",
+    "St. Augustine",
+    "Julington Creek",
+    "Fleming Island"
+  ],
+  "differentiators": [
+    {
+      "title": "Veteran-Owned & Operated",
+      "description": "Greg Cressman brings military-grade attention to detail and accountability to every service call. Your property is treated like a mission."
+    },
+    {
+      "title": "Licensed & Certified Technicians",
+      "description": "State license JB324154. Every tech is UF IFAS-trained and certified — not just spraying and hoping."
+    },
+    {
+      "title": "100% Satisfaction Guarantee",
+      "description": "If pests or weeds return between visits, we come back at no charge. No runaround, no fine print."
+    }
+  ],
+  "process_steps": [
+    {
+      "step": 1,
+      "title": "Free Inspection",
+      "description": "A licensed technician visits your property, identifies the exact pest or lawn issue, and gives you a straight answer."
+    },
+    {
+      "step": 2,
+      "title": "Custom Treatment Plan",
+      "description": "No cookie-cutter contracts. Your plan is built for your property, your pest pressure, and your lawn type."
+    },
+    {
+      "step": 3,
+      "title": "Treatment Day",
+      "description": "We arrive on time, explain what we're doing, and complete the service — typically in under 90 minutes."
+    },
+    {
+      "step": 4,
+      "title": "Guaranteed Follow-Up",
+      "description": "If anything comes back between scheduled visits, we return free. That's the RightWay guarantee."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Sarah M.",
+      "city": "Ponte Vedra Beach, FL",
+      "quote": "Greg's team showed up the same day I called and actually explained what they were treating and why. Every other company just sprays and leaves. These guys are different.",
+      "rating": 5
+    },
+    {
+      "name": "Tom R.",
+      "city": "Nocatee, FL",
+      "quote": "We've had our lawn on the RightWay program for two years. It looks better than it ever did when we used TruGreen. Way more responsive too.",
+      "rating": 5
+    },
+    {
+      "name": "Diane K.",
+      "city": "Jacksonville Beach, FL",
+      "quote": "Called about a termite scare. They came out the next morning, gave us a real inspection report, and the price was fair. Highly recommend.",
+      "rating": 5
+    }
+  ],
+  "gallery_items": []
+}
